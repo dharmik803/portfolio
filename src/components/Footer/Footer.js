@@ -3,7 +3,7 @@ import './Footer.css'
 const Footer = () => (
   <footer className='footer'>
     <a
-      href='https://github.com'
+      href='https://github.com/dharmik803'
       className='link footer__link'
       target="-blank"
     >

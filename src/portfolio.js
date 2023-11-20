@@ -14,7 +14,7 @@ const header = {
     resume: 'DharmikGajjar-Resume.pdf',
     social: {
       linkedin: 'https://www.linkedin.com/in/dharmik-gajjar-8a372a241/',
-      github: 'https://github.com',
+      github: 'https://github.com/dharmik803',
     },
   }
   
@@ -22,27 +22,27 @@ const header = {
     // projects can be added an removed
     // if there are no projects, Projects section won't show up
     {
-      name: 'Weather app',
+      name: 'Inventory Management System',
       description:
-        'By using this app one can know weather related information at any time easily!!!',
-      stack: ['Html', 'JavaScript', 'Css'],
-      sourceCode: 'https://github.com',
-      livePreview: 'https://github.com',
+        'An inventory management website tracks and organizes a business\'s stock efficiently, minimizing errors and optimizing supply chain operations.',
+      stack: ['Html', 'TypescriptScript', 'Bootstrap', 'Angular', 'Node JS'],
+      sourceCode: 'https://github.com/dharmik803/inv_sys',
+      livePreview: 'https://github.com/dharmik803/inv_sys',
     },
     {
-      name: 'Calculator',
+      name: 'Upsilon Perfume',
       description:
-        'A simple non-scientific calculator app for calculations!!!',
-      stack: ['C++'],
-      sourceCode: 'https://github.com',
-      livePreview: 'https://github.com',
+        'A simple Landing page of the Upsilon Perfume with responsive design!!!',
+      stack: ['Html', 'Css', 'Bootstrap'],
+      sourceCode: 'https://github.com/dharmik803/Upsilon-Dharmik_Gajjar',
+      livePreview: 'https://upsilon-perfume.netlify.app/',
     },
     {
-      name: 'Announcement Portal',
+      name: 'Contact Management',
       description:
-        'By using this app one can make announcement on portal related anything!!',
-      stack: ['React', 'NodeJs', 'MongoDB'],
-      sourceCode: 'https://github.com',
+        'By using this website one can see all the contact details and also keeps record of it!!',
+      stack: ['Angular', 'DotNet Core', 'Sql', 'DevExtreme'],
+      sourceCode: 'https://github.com/dharmik803/Contact-Management-DevExtreme-Ang',
       livePreview: 'https://github.com',
     },
   ]
@@ -52,11 +52,18 @@ const header = {
     // if there are no skills, Skills section won't show up
     'HTML',
     'CSS',
+    'Bootstrap',
     'JavaScript',
+    'TypeScript',
     'React',
+    'Angular',
+    'Docker',
+    'Git',
+    'DotNet Core',
+    'MongoDB',
     'C',
-    'C++',
-    'MySOL',
+    'C#',
+    'SQL'
   ]
   
   const contact = {

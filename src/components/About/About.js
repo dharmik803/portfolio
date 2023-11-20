@@ -34,7 +34,7 @@ const About = () => {
                 href={social.github}
                 aria-label='github'
                 className='link link--icon'
-                target="-blanck"
+                target="-blank"
               >
                 <GitHubIcon />
               </a>
